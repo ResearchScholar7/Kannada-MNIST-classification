@@ -11,3 +11,6 @@ Implementation of a convolutional neural network (CNN) for image classification.
 Preprocessing scripts for loading and augmenting the Kannada MNIST dataset.
 Model training and evaluation scripts.
 User-friendly Jupyter notebooks for experimentation and visualization.
+
+
+The dataset can be downloaded from https://www.kaggle.com/c/Kannada-MNIST
